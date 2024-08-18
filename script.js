@@ -10,3 +10,6 @@ function newHn(){
 function newfeat(){
     console.log("new feature");
 }
+function newfeat2(){
+    console.log("latest feature");
+}
