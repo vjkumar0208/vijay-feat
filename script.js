@@ -7,3 +7,9 @@ function newGn(){
 function newHn(){
     console.log("hello ");
 }
+function newfeat(){
+    console.log("new feature");
+}
+function newfeat2(){
+    console.log("latest feature");
+}
